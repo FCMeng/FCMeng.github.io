@@ -53,4 +53,3 @@ to create linebreak tags
 Finally, horizontal lines
 
 ----
-****
