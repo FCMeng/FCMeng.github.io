@@ -50,6 +50,7 @@ Use two trailing spaces
 on the right  
 to create linebreak tags  
 
-Finally, horizontal lines
+Finally, horizontal lines test
 
 ----
+****
